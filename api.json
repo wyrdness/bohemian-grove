@@ -1,10 +1,8 @@
 {
-  "category": "CONSPIRACY_THEORY",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/bohemian-grove",
     "maintainers": [
       {
@@ -18,351 +16,110 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "bohemian-grove",
     "name": "Bohemian Grove",
-    "aliases": [
-      {
-        "name": "The Grove",
-        "region": "California, USA"
-      },
-      {
-        "name": "Bohemian Club Encampment",
-        "meaning": "Formal name of annual gathering"
-      }
-    ],
-    "category": "CONSPIRACY_THEORY",
-    "subcategory": "Location",
+    "aliases": [],
+    "category": "|_CONSPIRACY_THEORY_/_LOCATION_|",
+    "subcategory": "|",
     "tags": [
-      "secret-society",
-      "elite",
-      "california",
-      "political",
-      "networking",
-      "ritual",
-      "real-location"
+      "burning-a-representation-of-worldly-worries-to-relax-during-encampment"
     ],
-    "status": "active",
+    "status": "documented",
     "description": {
-      "summary": "A private retreat for elite men in California's redwood forests, subject of conspiracy theories about ritual practices and world power machinations. While the club and ceremonies are real, conspiracy claims of satanic rituals and Illuminati meetings are largely unfounded exaggerations.",
-      "full": "Bohemian Grove is a 2,700-acre campground owned by the private Bohemian Club, located near Monte Rio, California. Founded in 1872, the club hosts an annual two-week summer encampment attended by some of the most powerful men in politics, business, and the arts. While members engage in theatrical performances, lectures, and networking, the secretive nature of the gatherings has fueled conspiracy theories ranging from satanic rituals to world government planning. The reality appears to be a male bonding retreat with theatrical traditions, most notably the 'Cremation of Care' ceremony featuring a 40-foot owl effigy."
+      "summary": "Bohemian Grove is a 2,700-acre campground owned by the private Bohemian Club, located near Monte Rio, California.",
+      "full": "Bohemian Grove is a 2,700-acre campground owned by the private Bohemian Club, located near Monte Rio, California. Founded in 1872, the club hosts an annual two-week summer encampment attended by some of the most powerful men in politics, business, and the arts. While members engage in theatrical performances, lectures, and networking, the secretive nature of the gatherings has fueled conspiracy theories ranging from satanic rituals to world government planning. The reality appears to be a male bonding retreat with theatrical traditions, most notably the \\\"Cremation of Care\\\" ceremony featuring a 40-foot owl effigy. The Grove represents a real elite networking location that has been subject to significant conspiracy theory elaboration, making it difficult to separate legitimate concerns about elite influence from unfounded claims of occult practices."
     },
     "etymology": {
-      "origin": "Named for the Bohemian Club, a San Francisco gentlemen's club founded in 1872 by journalists and artists who called themselves 'Bohemians'",
-      "meaning": "Refers to the redwood grove where encampments are held",
-      "first_use": "1872"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
-      "category": "CONSPIRACY_THEORY",
-      "type": "Location-based",
-      "subtype": "Elite gathering",
-      "variant": "Real location with exaggerated claims"
+      "category": "|_CONSPIRACY_THEORY_/_LOCATION_|",
+      "type": "|",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "illuminati",
-        "name": "Illuminati",
-        "relationship": "alleged_connection",
-        "description": "Often claimed to be an Illuminati meeting place"
-      },
-      {
-        "id": "new-world-order",
-        "name": "New World Order",
-        "relationship": "alleged_connection",
-        "description": "Allegedly where NWO plans are made"
-      },
-      {
-        "id": "skull-and-bones",
-        "name": "Skull and Bones",
-        "relationship": "similar",
-        "description": "Another exclusive Yale secret society"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
     "physical": {
-      "location": {
-        "description": "2,700-acre redwood grove near Monte Rio, California",
-        "country": "United States",
-        "region": "California",
-        "coordinates": {
-          "latitude": 38.4727,
-          "longitude": -123.0093,
-          "precision": "approximate"
-        }
-      },
-      "facilities": [
-        {
-          "feature": "Camp areas",
-          "description": "Over 100 separate camps within the grove",
-          "usage": "Themed sub-camps for different member groups"
-        },
-        {
-          "feature": "Outdoor theaters",
-          "description": "Natural amphitheaters in the redwoods",
-          "usage": "Theatrical performances and ceremonies"
-        },
-        {
-          "feature": "Owl shrine",
-          "description": "40-foot concrete owl effigy",
-          "usage": "Centerpiece of Cremation of Care ceremony"
-        }
-      ]
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "activities": {
-      "official": [
-        {
-          "activity": "Cremation of Care",
-          "description": "Opening ceremony with theatrical burning of effigy representing worldly cares and worries",
-          "frequency": "annual",
-          "type": "ritual performance"
-        },
-        {
-          "activity": "Theatrical productions",
-          "description": "Original plays and performances written by members",
-          "frequency": "throughout encampment",
-          "type": "entertainment"
-        },
-        {
-          "activity": "Lakeside Talks",
-          "description": "Lectures by prominent speakers on various topics",
-          "frequency": "throughout encampment",
-          "type": "educational"
-        },
-        {
-          "activity": "Networking",
-          "description": "Informal socializing and business discussions",
-          "frequency": "continuous",
-          "type": "social"
-        }
-      ],
-      "conspiracy_claims": [
-        {
-          "claim": "Satanic rituals",
-          "reality": "Theatrical ceremony with symbolic burning of 'care'",
-          "evidence_level": "unfounded"
-        },
-        {
-          "claim": "Human sacrifice",
-          "reality": "No credible evidence, theatrical effigies only",
-          "evidence_level": "debunked"
-        },
-        {
-          "claim": "World government planning",
-          "reality": "Policy influence through networking, not formal planning",
-          "evidence_level": "exaggerated"
-        },
-        {
-          "claim": "Illuminati meetings",
-          "reality": "No evidence of Illuminati involvement",
-          "evidence_level": "unfounded"
-        }
-      ]
-    },
-    "membership": {
-      "type": "Invitation-only",
-      "gender": "Men only",
-      "estimated_size": "2,500+ members",
-      "notable_categories": [
-        "US Presidents (both parties)",
-        "Supreme Court justices",
-        "Fortune 500 CEOs",
-        "Media executives",
-        "Artists and musicians",
-        "High-ranking military officials"
-      ]
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
     }
   },
-
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
   "history": {
     "origins": {
-      "cultural_roots": "Founded by San Francisco journalists and artists as a gentlemen's club in 1872",
-      "earliest_accounts": "First encampment held in 1878 at various locations",
-      "evolution": "Grove purchased in 1899, became permanent summer retreat location"
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "timeline": [
-      {
-        "date": "1872",
-        "event": "Bohemian Club founded",
-        "significance": "San Francisco social club established by journalists",
-        "source": "Club records"
-      },
-      {
-        "date": "1878",
-        "event": "First summer encampment",
-        "significance": "Beginning of annual tradition",
-        "source": "Club archives"
-      },
-      {
-        "date": "1899",
-        "event": "Grove property purchased",
-        "significance": "Permanent location established near Monte Rio",
-        "source": "Property records"
-      },
-      {
-        "date": "1942",
-        "event": "Manhattan Project discussions",
-        "significance": "Some claim early atomic bomb discussions occurred here (documented)",
-        "source": "Historical accounts"
-      },
-      {
-        "date": "2000",
-        "event": "Alex Jones infiltration",
-        "significance": "Conspiracy theorist filmed ceremony, spread exaggerated claims",
-        "source": "Jones's video footage"
-      }
-    ],
-    "modern_era": "The Grove continues annual encampments with strict privacy and member-only access. Media attention and conspiracy theories have intensified in the internet age, though legitimate concerns focus on elite networking and policy influence rather than occult activities."
+    "timeline": []
   },
-
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
   "evidence": {
-    "physical": [
-      {
-        "type": "location",
-        "name": "Bohemian Grove property",
-        "description": "Verified 2,700-acre property near Monte Rio, California",
-        "status": "confirmed",
-        "source": "Property records, satellite imagery"
-      },
-      {
-        "type": "structure",
-        "name": "Owl shrine",
-        "description": "40-foot concrete owl statue used in ceremonies",
-        "status": "confirmed",
-        "source": "Photographs, member accounts"
-      }
-    ],
-    "photographic": [
-      {
-        "type": "video",
-        "name": "Alex Jones 2000 footage",
-        "description": "Secret filming of Cremation of Care ceremony",
-        "status": "authentic footage, disputed interpretation",
-        "source": "Alex Jones/Infowars"
-      },
-      {
-        "type": "photos",
-        "name": "Various leaked photos",
-        "description": "Photos of camp activities and facilities",
-        "status": "some verified authentic",
-        "source": "Multiple leaks over decades"
-      }
-    ],
-    "documentary": [
-      {
-        "type": "membership lists",
-        "name": "Partial member lists",
-        "description": "Some members publicly acknowledged or leaked",
-        "status": "verified",
-        "source": "Media reports, member admissions"
-      },
-      {
-        "type": "historical records",
-        "name": "Club history",
-        "description": "Documented founding and early history",
-        "status": "confirmed",
-        "source": "San Francisco historical societies"
-      }
-    ]
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
   },
-
   "theories": {
-    "conspiracy": [
-      {
-        "name": "New World Order headquarters",
-        "description": "Grove is where global elite plan world government",
-        "proponents": ["Alex Jones", "Various conspiracy theorists"],
-        "evidence_cited": ["Secrecy", "High-profile attendees", "Policy influence"]
-      },
-      {
-        "name": "Satanic worship",
-        "description": "Cremation of Care is satanic ritual, owl represents Moloch",
-        "proponents": ["Christian conspiracy theorists"],
-        "evidence_cited": ["Owl imagery", "Fire ceremony", "Secret rituals"]
-      },
-      {
-        "name": "Human sacrifice",
-        "description": "Actual human sacrifices performed during ceremonies",
-        "proponents": ["Extreme conspiracy theorists"],
-        "evidence_cited": ["No credible evidence"]
-      }
-    ],
-    "rational": [
-      {
-        "name": "Elite networking retreat",
-        "description": "Private club for powerful men to network and socialize away from public scrutiny",
-        "proponents": ["Mainstream journalists", "Researchers"],
-        "evidence_cited": ["Member admissions", "Historical records", "Documented attendees"]
-      },
-      {
-        "name": "Policy influence concern",
-        "description": "Informal discussions may influence policy without public oversight",
-        "proponents": ["Progressive activists", "Transparency advocates"],
-        "evidence_cited": ["Documented member influence", "Lack of diversity", "Secrecy"]
-      }
-    ]
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
   },
-
   "cultural": {
-    "media_coverage": {
-      "mainstream": [
-        "The Washington Post articles on Grove membership",
-        "Spy Magazine exposés (1989)",
-        "Vanity Fair coverage"
-      ],
-      "conspiracy": [
-        "Alex Jones documentaries",
-        "Countless conspiracy theory books",
-        "YouTube videos and podcasts"
-      ]
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
     },
     "popular_culture": {
-      "film_tv": [
-        "Referenced in conspiracy-themed documentaries",
-        "Mentioned in political satire"
-      ],
-      "literature": [
-        "G. William Domhoff academic studies",
-        "Conspiracy theory books"
-      ]
-    },
-    "legitimate_concerns": [
-      "Elite networking without public oversight",
-      "Potential policy influence in private settings",
-      "Lack of diversity (men-only, wealthy elite)",
-      "Secrecy fuels speculation and conspiracy theories"
-    ]
-  },
-
-  "sources": [
-    {
-      "id": "domhoff-1974",
-      "type": "book",
-      "title": "The Bohemian Grove and Other Retreats",
-      "authors": ["G. William Domhoff"],
-      "publication": "Harper & Row",
-      "date": "1974"
-    },
-    {
-      "id": "vanwagenen-2009",
-      "type": "book",
-      "title": "The Bohemian Grove: Cult of Conspiracy",
-      "authors": ["Michael Van Wagenen"],
-      "publication": "Doctoral dissertation",
-      "date": "2009"
-    },
-    {
-      "id": "jones-2000",
-      "type": "video",
-      "title": "Dark Secrets: Inside Bohemian Grove",
-      "authors": ["Alex Jones"],
-      "date": "2000",
-      "url": "https://www.infowars.com"
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
-  ]
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }
