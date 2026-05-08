@@ -1,284 +1,175 @@
 # Bohemian Grove
 
-> *"Weaving spiders come not here."* — Club motto
+> Bohemian Grove is a 2,700-acre (1,100 ha) campground near Monte Rio, California, owned by the private Bohemian Club, which hosts an annual two-week summer encampment attended by political, business, and cultural elites and is the focus of long-running conspiracy theories.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Status](https://img.shields.io/badge/status-active-brightgreen)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `bohemian-grove` |
-| **Category** | CONSPIRACY_THEORY / LOCATION |
-| **Classification** | Elite gathering / Real location |
-| **Founded** | 1872 (Club), 1899 (Grove property) |
-| **Location** | Monte Rio, California, USA |
-| **Status** | Active (annual encampments continue) |
+| **Category** | CONSPIRACY_THEORY |
+| **Subcategory** | Elite gathering / secret society |
+| **First recorded** | 1872 |
+| **Primary range** | A single fixed property near Monte Rio, Sonoma County, California, in the redwood country of the Russian River |
+| **Status** | documented |
 
 ---
-
 ## Overview
 
-Bohemian Grove is a 2,700-acre campground owned by the private Bohemian Club, located near Monte Rio, California. Founded in 1872, the club hosts an annual two-week summer encampment attended by some of the most powerful men in politics, business, and the arts.
-
-While members engage in theatrical performances, lectures, and networking, the secretive nature of the gatherings has fueled conspiracy theories ranging from satanic rituals to world government planning. The reality appears to be a male bonding retreat with theatrical traditions, most notably the "Cremation of Care" ceremony featuring a 40-foot owl effigy.
-
-The Grove represents a real elite networking location that has been subject to significant conspiracy theory elaboration, making it difficult to separate legitimate concerns about elite influence from unfounded claims of occult practices.
+Bohemian Grove is a 2,700-acre (1,100 ha) redwood retreat owned by the San Francisco-based Bohemian Club at 20601 Bohemian Avenue, Monte Rio, Sonoma County, California. The Bohemian Club was founded in 1872; the summer encampment tradition dates to 1878, when fewer than 100 members gathered at a redwood site to honor departing actor Henry Edwards. The club has rented the current site since 1893 and purchased it in 1899 from Melvin Cyrus Meeker. Each July, members and guests — restricted to men — convene for two weeks of theatrical productions ('Grove Plays'), 'Lakeside Talks' lectures, fireside camps, and informal networking. The encampment opens with the 'Cremation of Care', a torchlit allegorical performance staged before a 30-foot concrete owl shrine designed by sculptor Haig Patigian (constructed in the late 1920s) in which a humanoid effigy representing 'Dull Care' is symbolically burned. Bohemian Grove has been documented as a venue for genuinely consequential meetings — most notably a September 1942 Manhattan Project planning session attended by Ernest Lawrence and J. Robert Oppenheimer, and a July 1950 introduction between Dwight Eisenhower and Richard Nixon — but conspiracy theorists, most prominently Alex Jones in his 2000 hidden-camera infiltration, have characterized the Cremation of Care as occult or sacrificial. Mainstream journalists, sociologists, and infiltrating reporters such as Philip Weiss (1989, Spy magazine) have generally described the rituals as theatrical and the Grove as a study in elite male sociology rather than a site of literal occult practice.
 
 ---
+## Names & Aliases
 
-## The Reality vs. The Conspiracy
+| Name | Origin | Meaning |
+|---|---|---|
+| The Grove | Northern California |  |
+| Bohemian Club Encampment |  | Annual two-week summer gathering of the Bohemian Club |
 
-### What is Confirmed
+## Etymology
 
-✅ **Real private club** — Bohemian Club founded 1872 in San Francisco  
-✅ **Real location** — 2,700-acre grove near Monte Rio, California  
-✅ **Elite membership** — Presidents, CEOs, Supreme Court justices, artists  
-✅ **Annual encampments** — Two-week summer gatherings since 1878  
-✅ **Cremation of Care ceremony** — Theatrical opening ritual with 40-foot owl effigy  
-✅ **Men-only membership** — Exclusively male, invitation-only  
-✅ **Extreme secrecy** — Members forbidden from discussing activities  
-✅ **Policy influence** — Networking among powerful individuals  
-
-### What is Disputed/Unfounded
-
-❌ **Satanic rituals** — Theatrical ceremony misinterpreted as occult worship  
-❌ **Human sacrifice** — No credible evidence, only theatrical effigies  
-❌ **Illuminati meetings** — No evidence of Illuminati involvement  
-❌ **World government planning** — Informal networking, not formal conspiracy  
-❌ **Moloch worship** — Owl represents club wisdom symbol, not deity  
+- **Origin**: Named after the Bohemian Club of San Francisco, founded in 1872 by journalists, artists, and musicians who styled themselves 'Bohemians'. The encampment grounds are sited in a coastal redwood grove, hence 'Bohemian Grove'.
+- **Meaning**: 'Bohemian' here refers to the 19th-century artistic/literary self-identification, not to Bohemia in central Europe.
+- **First use**: 1878 (first encampment); the term 'Bohemian Grove' for the current site dates from the club's lease beginning in 1893.
 
 ---
+## Related Phenomena
 
-## History
+- [Bilderberg Group](../bilderberg-group/) — _similar_: Annual private conference of political, financial, and media elites, also frequent target of conspiracy theory
+- [Skull and Bones](../skull-and-bones/) — _similar_: Yale University secret society subject to comparable conspiracy claims
+- [Illuminati](../illuminati/) — _related_: Conspiracy framing often links Bohemian Grove to a generalized 'Illuminati'
 
-### Origins
+---
+## Physical Description
 
-The Bohemian Club was founded in 1872 by San Francisco journalists and artists who called themselves "Bohemians." The first summer encampment was held in 1878 at various outdoor locations. In 1899, the club purchased the redwood grove property near Monte Rio, establishing the permanent location for annual gatherings.
+- **Morphology**: A wooded retreat property in the Russian River watershed, Sonoma County, with rustic permanent infrastructure (lodges, theatrical stages, an outdoor amphitheater, and the Owl Shrine) maintained year-round.
 
-### Timeline
+### Features
+
+| Feature | Description | Frequency |
+|---|---|---|
+| Old-growth redwood grove | The property contains roughly 160 acres of old-growth coast redwoods, some over 1,000 years old | always |
+| Owl Shrine | 30-foot reinforced-concrete statue of an owl, designed by Haig Patigian, used as the focal piece of the Cremation of Care ceremony | always |
+| Camp structures | Approximately 118 named camps (as of 2007), each with cabins, dining lodges, and themed identities | always |
+
+## Behavior
+
+- **Activity**: variable
+- **Disposition**: neutral
+- **Social structure**: colony
+- **Habitat**: coast redwood forest, private woodland retreat
+
+---
+## Distribution
+
+A single fixed property near Monte Rio, Sonoma County, California, in the redwood country of the Russian River.
+
+### Hotspots
+
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Bohemian Grove | California, United States |  | Mid-July annually since 1878 |
+
+---
+## Historical Timeline
 
 | Date | Event | Significance |
-|------|-------|--------------|
-| 1872 | Bohemian Club founded | San Francisco social club for journalists and artists |
-| 1878 | First summer encampment | Beginning of annual outdoor gathering tradition |
-| 1899 | Grove property purchased | Permanent location established near Monte Rio |
-| 1942 | Manhattan Project discussions | Early atomic bomb planning allegedly discussed |
-| 1989 | Spy Magazine exposé | Media attention on membership and activities |
-| 2000 | Alex Jones infiltration | Secret filming spreads conspiracy theories worldwide |
+|---|---|---|
+| 1872 | Bohemian Club founded in San Francisco by a group of journalists and artists | Origin of the parent organization |
+| 1878 | First summer encampment, fewer than 100 members, honoring departing actor Henry Edwards | Beginning of the Bohemian Grove tradition |
+| 1881 | First 'Cremation of Care' ceremony performed | Founding of the Grove's signature opening ritual |
+| 1893 | Club begins renting the current Monte Rio site | The Grove acquires its present geographic identity |
+| 1899 | Club purchases the property from Melvin Cyrus Meeker | Permanent ownership of the redwood grove |
+| 1913 | 'Cremation of Care' separated from other Grove Plays as its own opening ritual | Formalizes the modern ceremonial structure |
+| 1942-09 | Manhattan Project planning meeting at the Grove involving Ernest Lawrence and J. Robert Oppenheimer | Documented case of consequential government work conducted at the Grove |
+| 1950-07 | First meeting between Dwight Eisenhower and Richard Nixon at the Grove | Frequently cited example of political networking at the Grove |
+| 1989-11 | Reporter Philip Weiss publishes 'Inside Bohemian Grove' in Spy magazine after infiltrating the encampment | First detailed mainstream-press infiltration account |
+| 2000-07-15 | Alex Jones and Mike Hanson covertly film the Cremation of Care ceremony | Catalyst for modern conspiracy-theory framing of the Grove |
+
+## Evidence
+
+### Physical
+
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Owl Shrine | late 1920s | 30-foot reinforced-concrete owl statue designed by Bohemian Club member and sculptor Haig Patigian; serves as the backdrop for the Cremation of Care ceremony. | verified |
+### Video
+
+| Name | Date | Description | Status |
+|---|---|---|---|
+| 'Dark Secrets: Inside Bohemian Grove' | 2000-07-15 | Hidden-camera footage of the Cremation of Care ceremony filmed covertly by Alex Jones and Mike Hanson. | disputed |
+### Documentary
+
+| Name | Date | Description | Status |
+|---|---|---|---|
+| 'Inside Bohemian Grove' (Spy magazine) | 1989-11 | First-person infiltration account by reporter Philip Weiss describing the camps, talks, and Cremation of Care. | verified |
 
 ---
+## Theories & Explanations
 
-## The Encampment
+### Paranormal / Cryptozoological
 
-### Structure
+**Occult ritual / mock human sacrifice** _(Alex Jones, Mike Hanson)_
 
-- **Duration**: Two weeks each July
-- **Location**: 2,700-acre redwood grove
-- **Camps**: Over 100 themed sub-camps within the grove
-- **Estimated attendance**: 2,000-2,500 men annually
+Asserts that the Cremation of Care is a literal occult ceremony invoking Moloch via the giant owl shrine, used to bond elites in collective transgression.
 
-### Activities
+### Scientific
 
-| Activity | Description | Type |
-|----------|-------------|------|
-| Cremation of Care | Opening ceremony burning effigy of "care/worry" before 40-foot owl | Theatrical ritual |
-| Lakeside Talks | Lectures by prominent speakers on policy, business, culture | Educational |
-| Grove Plays | Original theatrical productions written and performed by members | Entertainment |
-| Informal networking | Socializing, drinking, policy discussions among elite | Social/Political |
+**Elite networking institution** _(G. William Domhoff)_
 
-### Cremation of Care Ceremony
+Sociologists frame the Grove as a documented mechanism of elite cohesion, where political, corporate, and military leaders form personal ties that influence policy outcomes.
 
-The most controversial and misunderstood aspect of the Grove:
+### Skeptical
 
-- **What it is**: Theatrical opening ceremony with costumed performers
-- **Symbolism**: Burning a representation of worldly worries to relax during encampment
-- **The Owl**: 40-foot concrete effigy representing club wisdom symbol
-- **Conspiracy claims**: Misinterpreted as satanic/Moloch worship
-- **Reality**: Elaborate theatrical tradition dating to early 1900s
+**Theatrical pageant, not ritual** _(Philip Weiss, Mainstream press coverage)_
 
----
+The Cremation of Care is a 19th-century-style allegorical pageant in the tradition of Grove Plays — performative theater rather than literal religious ceremony.
 
-## Membership
 
-### Composition
+## Popular Culture
 
-- **Size**: Approximately 2,500 members
-- **Gender**: Men only (long-standing controversy)
-- **Access**: Invitation-only, extremely exclusive
-- **Waiting list**: Years to decades for membership
+**Literature**: The Bohemian Grove and Other Retreats — G. William Domhoff (1974); Inside Bohemian Grove — Philip Weiss, Spy magazine (November 1989)
 
-### Notable Members (Documented)
+**Film / TV**: Dark Secrets: Inside Bohemian Grove — Alex Jones (2000); Bohemian Grove: Cult of Conspiracy — Mike Hanson (2004)
 
-**Presidents**:
-- Herbert Hoover
-- Richard Nixon
-- Ronald Reagan
-- George H.W. Bush
-- George W. Bush
-
-**Other Prominent Figures**:
-- Supreme Court justices
-- Fortune 500 CEOs
-- Military generals
-- Media moguls
-- Prominent artists and musicians
-
-### Political Spectrum
-
-Members span both major US political parties, contradicting simple partisan conspiracy theories.
+**Other**: Annual Bohemian Grove protest gatherings outside the Monte Rio entrance; Persistent reference point in 21st-century Internet conspiracy culture
 
 ---
+## Research
 
-## Conspiracy Theories
+### Researchers
 
-### Major Claims
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| G. William Domhoff | University of California, Santa Cruz (sociology) | Sociological study of the Grove as elite-cohesion institution; foundational 1974 monograph | 1970s–present |
+| Philip Weiss | Spy magazine | 1989 long-form infiltration journalism | 1989 |
+| Alex Jones | Infowars | 2000 hidden-camera Cremation of Care footage; conspiracy-theory framing | 2000–present |
 
-1. **New World Order Planning**
-   - **Claim**: Global elite meet to plan world government
-   - **Reality**: Networking occurs, but no evidence of formal conspiracy
-   - **Assessment**: Exaggerated from legitimate networking concerns
+### Organizations
 
-2. **Satanic/Occult Worship**
-   - **Claim**: Cremation of Care is satanic ritual, owl is Moloch
-   - **Reality**: Theatrical ceremony, owl is club wisdom symbol
-   - **Assessment**: Debunked — misinterpretation of symbolism
+- [Bohemian Club](https://www.bohemianclub.com/) — Owner and operator of Bohemian Grove
 
-3. **Human Sacrifice**
-   - **Claim**: Actual human sacrifices during ceremonies
-   - **Reality**: Only theatrical effigies burned
-   - **Assessment**: Completely unfounded
-
-4. **Illuminati Headquarters**
-   - **Claim**: Modern Illuminati uses Grove as meeting place
-   - **Reality**: No evidence of Illuminati involvement
-   - **Assessment**: Unfounded
-
-### The Alex Jones Effect (2000)
-
-Conspiracy theorist Alex Jones infiltrated the Grove in 2000 with a hidden camera, filming the Cremation of Care ceremony. His documentary "Dark Secrets: Inside Bohemian Grove" widely spread exaggerated interpretations:
-
-- **What he filmed**: Real ceremony (confirmed)
-- **His interpretation**: Satanic ritual, occult practices
-- **Actual nature**: Theatrical performance with symbolic meaning
-- **Impact**: Massively amplified conspiracy theories online
+Continued sociological interest in elite social networks (Domhoff and successors); periodic investigative journalism; ongoing conspiracy-theory media production.
 
 ---
+## Sources
 
-## Legitimate Concerns
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-While extreme conspiracy theories are unfounded, legitimate criticisms exist:
 
-### 1. Elite Networking Without Oversight
-Powerful individuals discussing policy in private settings without public scrutiny or transparency.
+## How to Report a Sighting
 
-### 2. Lack of Diversity
-- Men-only membership (women completely excluded)
-- Predominantly wealthy, white, politically connected elite
-- Reinforces existing power structures
-
-### 3. Policy Influence
-Informal discussions may influence government and corporate policy without democratic input.
-
-### 4. Secrecy Fuels Speculation
-Extreme privacy measures create information vacuum filled by conspiracy theories.
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
-## Notable Incidents
-
-### Manhattan Project Connection (1942)
-
-Some historical accounts suggest early planning discussions for the atomic bomb occurred at the Grove, though details remain classified or disputed.
-
-### Reagan-Nixon "Lakeside Talk" (1967)
-
-According to some accounts, discussions at the Grove influenced who would run for president in 1968, demonstrating real political influence.
-
----
-
-## Location
-
-**Address**: Near Monte Rio, Sonoma County, California  
-**Coordinates**: Approximately 38.4727°N, 123.0093°W  
-**Size**: 2,700 acres of old-growth redwood forest  
-**Access**: Completely private, heavily guarded during encampments
-
----
-
-## Cultural Impact
-
-### Media Coverage
-
-**Mainstream**:
-- Washington Post articles on membership
-- Spy Magazine exposés (1989)
-- Vanity Fair features
-- Academic studies (G. William Domhoff)
-
-**Conspiracy Media**:
-- Alex Jones documentaries
-- Countless conspiracy theory books
-- YouTube investigations
-- Podcast episodes
-
-### Academic Study
-
-Political scientist G. William Domhoff studied the Grove in the 1970s, documenting its role as an elite bonding and networking venue without confirming occult conspiracy claims.
-
----
-
-## Current Status
-
-The Bohemian Club continues to hold annual two-week encampments each July. Membership remains exclusively male and invitation-only. The club maintains strict privacy, with members sworn to secrecy about activities and discussions.
-
-Recent years have seen increased scrutiny regarding:
-- Gender exclusivity
-- Elite influence on policy
-- Environmental impact on old-growth forest
-- Privacy vs. public interest
-
----
-
-## API Reference
-
-Machine-readable data is available in [`api.json`](api.json).
-
-### Direct Access
-
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/bohemian-grove/main/api.json
-```
-
----
-
-## Sources & References
-
-See [SOURCES.md](SOURCES.md) for complete bibliography.
-
-### Key Sources
-
-- Domhoff, G.W. (1974). *The Bohemian Grove and Other Retreats*
-- Van Wagenen, M. (2009). *The Bohemian Grove: Cult of Conspiracy*
-- Jones, A. (2000). *Dark Secrets: Inside Bohemian Grove* [Documentary]
-
----
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
